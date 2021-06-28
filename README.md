@@ -20,5 +20,6 @@ My name is Vinicius Sanches, i'm a recently graduate in Industrial Engineering w
 ## ./stats
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinismachadoo&show_icons=true&hide_border=true&text_color=c9cacc&title_color=ffffff)
-![Git Status]("https://github-readme-stats.vercel.app/api?username=vinismachadoo&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc")
-<!-- links to social media -->
+
+![Git Status](https://github-readme-stats.vercel.app/api?username=vinismachadoo&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc)
+
