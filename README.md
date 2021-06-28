@@ -1,12 +1,15 @@
-# </about me>
+# ./about
 
 My name is Vinicius Sanches, i'm a recently graduate in Industrial Engineering with emphasis in production management at Federal University of Rio de Janeiro. I'm a statistics and optimization enthusiastic and since the 6th semester i've started my programming journey 
 
-## </tools>
+## ./tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=#3776AB)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=#007ACC)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=intellij-idea&logoColor=white&color=#F37626)
 
-## </contact me>
+
+## ./contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinismachadoo/)](https://www.linkedin.com/in/vinismachadoo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)](https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)
