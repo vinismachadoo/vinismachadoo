@@ -9,13 +9,12 @@ My name is Vinicius Sanches, i'm a recently graduate in Industrial Engineering w
 ## </contact me>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinismachadoo/)](https://www.linkedin.com/in/vinismachadoo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521991751351&text=Hi Vinicius!)](https://api.whatsapp.com/send?phone=5521991751351&text=Hi Vinicius!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)](https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.sanches@poli.ufrj.br)](mailto:vinicius.sanches@poli.ufrj.br)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinismachadoo&show_icons=true&hide_border=true&theme=merko)
 
 <!-- links to social media -->
-[
 
 <!--
 **vinismachadoo/vinismachadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
