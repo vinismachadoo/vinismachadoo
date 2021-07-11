@@ -1,6 +1,8 @@
 ## ./about
 
-My name is Vinicius Sanches, i'm a recently graduate in Industrial Engineering with emphasis in production management at Federal University of Rio de Janeiro. I'm a statistics and optimization enthusiastic and since the 6th semester i've started my programming journey 
+My name is Vinicius Sanches, i'm a recently graduate in Industrial Engineering with emphasis in production management at Federal University of Rio de Janeiro. I'm a statistics and optimization enthusiastic and since the 6th semester i've started my programming journey.
+
+So far I've commited to learn linear programming for optimization, data analysis for interactive dashboards and web scraping for data harvest. I made my graduation thesis in healthcare developing a set coverage model to address better quality and more coverage of health services for poor people in the city of Rio. I also have an article published in the biggest Oil and Gás congress in Latinamerica (ROG IBP, ed. 2020) entitled "Airport selection and helicopter fleet dimensioning through mathematical optimization" and accessible by DOI 10.48072/2525-7579.rog.2020.137
 
 ## ./tools
 
