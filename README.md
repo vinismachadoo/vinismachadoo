@@ -18,7 +18,7 @@ So far I've commited to learn linear programming for optimization, data analysis
 ![](https://img.shields.io/badge/Framework-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=109989)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 
