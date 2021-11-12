@@ -26,5 +26,6 @@ So far I've commited to learn linear programming for optimization, data analysis
 
 ## < Stats / >
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinismachadoo&show_icons=true&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinismachadoo&show_icons=true&hide_border=true&layout=compact&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21)
+
 ![Git Status](https://github-readme-stats.vercel.app/api?username=vinismachadoo&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21)
