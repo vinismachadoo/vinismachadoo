@@ -40,7 +40,6 @@ So far I've commited to learn linear programming for optimization, data analysis
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Code-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 
-
 <div align="center">
 
 # < GitStatus />
@@ -50,3 +49,35 @@ So far I've commited to learn linear programming for optimization, data analysis
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinismachadoo&show_icons=true&hide_border=true&layout=compact&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21)
 
 ![Git Status](https://github-readme-stats.vercel.app/api?username=vinismachadoo&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21)
+
+<div align="center">
+
+# < Projects />
+
+</div>
+
+### Data Science
+
+🛢️ [otimizacao-petroleo-offshore](https://github.com/vinismachadoo/otimizacao-petroleo-offshore)
+
+✈️ [aviacao-civil-brasil](https://github.com/vinismachadoo/aviacao-civil-brasil)
+
+📚 [alura-imersao-dados-2](https://github.com/vinismachadoo/alura-imersao-dados-2)
+
+### Automation
+
+🎟️ [gerador-ingresso-sympla](https://github.com/vinismachadoo/gerador-ingresso-sympla)
+
+📃 [automacao-siga-ufrj](https://github.com/vinismachadoo/automacao-siga-ufrj)
+
+### Web 3
+
+🦄 [web3-emojiark-nft](https://github.com/vinismachadoo/web3-emojiark-nft)
+
+👋 [web3-wave-portal](https://github.com/vinismachadoo/web3-wave-portal)
+
+### Web Development
+
+🎉 [opencal](https://github.com/vinismachadoo/opencal)
+
+⚛️ [alura-imersao-react-3](https://github.com/vinismachadoo/alura-imersao-react-3)
