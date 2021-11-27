@@ -70,7 +70,7 @@ So far I've commited to learn linear programming for optimization, data analysis
 
 📃 [automacao-siga-ufrj](https://github.com/vinismachadoo/automacao-siga-ufrj)
 
-### Web 3
+### Web3
 
 🦄 [web3-emojiark-nft](https://github.com/vinismachadoo/web3-emojiark-nft)
 
@@ -79,5 +79,3 @@ So far I've commited to learn linear programming for optimization, data analysis
 ### Web Development
 
 🎉 [opencal](https://github.com/vinismachadoo/opencal)
-
-⚛️ [alura-imersao-react-3](https://github.com/vinismachadoo/alura-imersao-react-3)
