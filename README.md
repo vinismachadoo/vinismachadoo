@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinismachadoo/)](https://www.linkedin.com/in/vinismachadoo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)](https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinicius.sanches@poli.ufrj.br)](mailto:vinicius.sanches@poli.ufrj.br)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=Twitter&logoColor=white&&color=1CA2F1)](https://twitter.com/ovinisanches)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vinisanches_)](https://www.instagram.com/ovinisanches)
+[![Visits Badge](https://badges.pufler.dev/visits/vinismachadoo/vinismachadoo)](https://www.github.com/vinismachadoo)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vinismachadoo/)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-Message-informational?style=flat&logo=whatsapp&logoColor=white&color=4CA143)](https://api.whatsapp.com/send?phone=5521991751351&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=flat&logo=Gmail&logoColor=white&color=c14438)](mailto:vinicius.sanches@poli.ufrj.br)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=Twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ovinisanches)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/ovinisanches)
 
  </div>
 
@@ -25,6 +26,8 @@ So far I've commited to learn linear programming for optimization, data analysis
 
 </div>
 
+<div align="center">
+ 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
@@ -39,6 +42,8 @@ So far I've commited to learn linear programming for optimization, data analysis
 
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Code-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
+ 
+</div>
 
 <div align="center">
 
@@ -52,30 +57,33 @@ So far I've commited to learn linear programming for optimization, data analysis
 
 <div align="center">
 
-# < Projects />
+# < FinishedProjects />
 
 </div>
 
 ### Data Science
 
-🛢️ [otimizacao-petroleo-offshore](https://github.com/vinismachadoo/otimizacao-petroleo-offshore)
-
-✈️ [aviacao-civil-brasil](https://github.com/vinismachadoo/aviacao-civil-brasil)
-
-📚 [alura-imersao-dados-2](https://github.com/vinismachadoo/alura-imersao-dados-2)
+<a href="https://github.com/vinismachadoo/otimizacao-petroleo-offshore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=otimizacao-petroleo-offshore&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vinismachadoo/aviacao-civil-brasil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=aviacao-civil-brasil&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vinismachadoo/alura-imersao-dados-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=alura-imersao-dados-2&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
 
 ### Automation
 
-🎟️ [gerador-ingresso-sympla](https://github.com/vinismachadoo/gerador-ingresso-sympla)
-
-📃 [automacao-siga-ufrj](https://github.com/vinismachadoo/automacao-siga-ufrj)
+<a href="https://github.com/vinismachadoo/automacao-siga-ufrj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=automacao-siga-ufrj&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
 
 ### Web3
 
-🦄 [web3-emojiark-nft](https://github.com/vinismachadoo/web3-emojiark-nft)
-
-👋 [web3-wave-portal](https://github.com/vinismachadoo/web3-wave-portal)
-
-### Web Development
-
-🎉 [opencal](https://github.com/vinismachadoo/opencal)
+<a href="https://github.com/vinismachadoo/web3-wave-portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=web3-wave-portal&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vinismachadoo/web3-emojiark-nft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinismachadoo&repo=web3-emojiark-nft&hide_border=true&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21" />
+</a>
